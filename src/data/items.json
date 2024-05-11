@@ -1,0 +1,228 @@
+{
+    "productos": [
+        {
+            "name": "iPhone X",
+            "category": "Smartphone",
+            "maker": "Apple",
+            "stock": 50,
+            "warranty": "1 year",
+            "price": 999
+        },
+        {
+            "name": "Samsung Galaxy S9",
+            "category": "Smartphone",
+            "maker": "Samsung",
+            "stock": 100,
+            "warranty": "1 year",
+            "price": 899
+        },
+        {
+            "name": "Sony PlayStation 4",
+            "category": "Gaming Console",
+            "maker": "Sony",
+            "stock": 25,
+            "warranty": "1 year",
+            "price": 299
+        },
+        {
+            "name": "Dell XPS 13",
+            "category": "Laptop",
+            "maker": "Dell",
+            "stock": 75,
+            "warranty": "2 years",
+            "price": 1299
+        },
+        {
+            "name": "LG 55-inch 4K TV",
+            "category": "Television",
+            "maker": "LG",
+            "stock": 10,
+            "warranty": "1 year",
+            "price": 999
+        },
+        {
+            "name": "Canon EOS Rebel T6",
+            "category": "Camera",
+            "maker": "Canon",
+            "stock": 15,
+            "warranty": "1 year",
+            "price": 499
+        },
+        {
+            "name": "Fitbit Versa",
+            "category": "Wearable",
+            "maker": "Fitbit",
+            "stock": 30,
+            "warranty": "1 year",
+            "price": 199
+        },
+        {
+            "name": "Bose QuietComfort 35 II",
+            "category": "Headphones",
+            "maker": "Bose",
+            "stock": 20,
+            "warranty": "1 year",
+            "price": 349
+        },
+        {
+            "name": "Amazon Echo Dot",
+            "category": "Smart Speaker",
+            "maker": "Amazon",
+            "stock": 50,
+            "warranty": "1 year",
+            "price": 49
+        },
+        {
+            "name": "Nintendo Switch",
+            "category": "Gaming Console",
+            "maker": "Nintendo",
+            "stock": 40,
+            "warranty": "1 year",
+            "price": 299
+        },
+        {
+            "name": "HP OfficeJet Pro 6968",
+            "category": "Printer",
+            "maker": "HP",
+            "stock": 5,
+            "warranty": "1 year",
+            "price": 149
+        },
+        {
+            "name": "Microsoft Surface Pro 6",
+            "category": "Tablet",
+            "maker": "Microsoft",
+            "stock": 30,
+            "warranty": "1 year",
+            "price": 899
+        },
+        {
+            "name": "GoPro HERO7 Black",
+            "category": "Action Camera",
+            "maker": "GoPro",
+            "stock": 10,
+            "warranty": "1 year",
+            "price": 399
+        },
+        {
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "category": "Laptop",
+            "maker": "Lenovo",
+            "stock": 20,
+            "warranty": "3 years",
+            "price": 1499
+        },
+        {
+            "name": "Sony WH-1000XM3",
+            "category": "Headphones",
+            "maker": "Sony",
+            "stock": 15,
+            "warranty": "1 year",
+            "price": 349
+        },
+        {
+            "name": "Apple Watch Series 4",
+            "category": "Wearable",
+            "maker": "Apple",
+            "stock": 25,
+            "warranty": "1 year",
+            "price": 399
+        },
+        {
+            "name": "LG 65-inch OLED TV",
+            "category": "Television",
+            "maker": "LG",
+            "stock": 5,
+            "warranty": "1 year",
+            "price": 2499
+        },
+        {
+            "name": "Nikon D750",
+            "category": "Camera",
+            "maker": "Nikon",
+            "stock": 10,
+            "warranty": "1 year",
+            "price": 1499
+        },
+        {
+            "name": "Fitbit Charge 3",
+            "category": "Wearable",
+            "maker": "Fitbit",
+            "stock": 35,
+            "warranty": "1 year",
+            "price": 149
+        },
+        {
+            "name": "Bose SoundLink Revolve+",
+            "category": "Speaker",
+            "maker": "Bose",
+            "stock": 15,
+            "warranty": "1 year",
+            "price": 299
+        },
+        {
+            "name": "Amazon Fire TV Stick",
+            "category": "Streaming Device",
+            "maker": "Amazon",
+            "stock": 30,
+            "warranty": "1 year",
+            "price": 39
+        },
+        {
+            "name": "Xbox One X",
+            "category": "Gaming Console",
+            "maker": "Microsoft",
+            "stock": 20,
+            "warranty": "1 year",
+            "price": 499
+        },
+        {
+            "name": "Canon EOS 5D Mark IV",
+            "category": "Camera",
+            "maker": "Canon",
+            "stock": 5,
+            "warranty": "1 year",
+            "price": 3299
+        },
+        {
+            "name": "HP Spectre x360",
+            "category": "Laptop",
+            "maker": "HP",
+            "stock": 15,
+            "warranty": "2 years",
+            "price": 1299
+        },
+        {
+            "name": "Samsung 55-inch QLED TV",
+            "category": "Television",
+            "maker": "Samsung",
+            "stock": 10,
+            "warranty": "1 year",
+            "price": 1499
+        },
+        {
+            "name": "Beats Studio3 Wireless",
+            "category": "Headphones",
+            "maker": "Beats",
+            "stock": 25,
+            "warranty": "1 year",
+            "price": 349
+        },
+        {
+            "name": "Google Home",
+            "category": "Smart Speaker",
+            "maker": "Google",
+            "stock": 30,
+            "warranty": "1 year",
+            "price": 99
+        },
+        {
+            "name": "PlayStation VR",
+            "category": "Virtual Reality",
+            "maker": "Sony",
+            "stock": 10,
+            "warranty": "1 year",
+            "price": 299
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(69, 69, 69, 0.449);
+    z-index: 1;
+}
+
+.modal__content{
+    background-color: white;
+    padding: 16px;
+    border-radius: 16px;
+}
+
+.content__button{
+    background-color: #F28F6B;
+    color: white;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.invisible {
+    visibility: hidden;
+}

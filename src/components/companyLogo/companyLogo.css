@@ -1,0 +1,10 @@
+.companyLogo{
+    display: flex;
+    height: 80px;
+    gap: 8px;
+    padding: 8px;
+}
+
+.companyLogo > h3 {
+    align-self: center;
+}

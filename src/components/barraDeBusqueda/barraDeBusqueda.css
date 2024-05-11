@@ -1,0 +1,28 @@
+.searchBar {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    width: 50vw;
+    margin: 0 auto;
+    padding: 12px;
+    box-sizing: content-box;
+    border-radius: 16px;
+    gap: 12px;
+}
+
+.searchBar__lupa {
+    height: inherit;
+}
+
+.searchBar__input {
+    height: inherit;
+    width: 100%;
+    border: 0;
+    background-color: transparent;
+    font-size: larger;
+}
+
+.searchBar__input:focus-visible {
+    outline: none;
+}

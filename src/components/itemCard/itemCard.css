@@ -1,0 +1,22 @@
+.itemCard {
+    display: flex;
+    flex-direction: column;
+    width: 154px;
+    align-items: center;
+    border: solid 1px;
+    border-radius: 8px;
+    padding: 4px;
+    box-sizing: content-box;
+    height: 240px;
+    justify-content: space-evenly;
+    background-color: #97a7b4;
+}
+
+.itemCard:hover {
+    background-color: #F28F6B;
+    cursor: pointer;
+}
+
+.itemCard__img{
+    width: inherit;
+}

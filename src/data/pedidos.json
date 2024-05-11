@@ -1,0 +1,214 @@
+{
+    "pedidos": [
+        {
+            "proveedor": "Apple",
+            "fecha_pedido": "2024-01-15",
+            "productos": [
+                {
+                    "nombre": "iPhone X",
+                    "cantidad": 50,
+                    "precio_unitario": 799,
+                    "valor_total_producto": 39950
+                },
+                {
+                    "nombre": "Apple Watch Series 4",
+                    "cantidad": 25,
+                    "precio_unitario": 319.2,
+                    "valor_total_producto": 7980
+                }
+            ],
+            "valor_total_pedido": 47930
+        },
+        {
+            "proveedor": "Samsung",
+            "fecha_pedido": "2024-02-05",
+            "productos": [
+                {
+                    "nombre": "Samsung Galaxy S9",
+                    "cantidad": 100,
+                    "precio_unitario": 719.2,
+                    "valor_total_producto": 71920
+                }
+            ],
+            "valor_total_pedido": 71920
+        },
+        {
+            "proveedor": "Sony",
+            "fecha_pedido": "2024-03-10",
+            "productos": [
+                {
+                    "nombre": "Sony PlayStation 4",
+                    "cantidad": 25,
+                    "precio_unitario": 239.2,
+                    "valor_total_producto": 5980
+                },
+                {
+                    "nombre": "PlayStation VR",
+                    "cantidad": 10,
+                    "precio_unitario": 239.2,
+                    "valor_total_producto": 2392
+                }
+            ],
+            "valor_total_pedido": 8372
+        },
+        {
+            "proveedor": "Dell",
+            "fecha_pedido": "2024-04-22",
+            "productos": [
+                {
+                    "nombre": "Dell XPS 13",
+                    "cantidad": 75,
+                    "precio_unitario": 1039.2,
+                    "valor_total_producto": 77940
+                }
+            ],
+            "valor_total_pedido": 77940
+        },
+        {
+            "proveedor": "LG",
+            "fecha_pedido": "2024-05-03",
+            "productos": [
+                {
+                    "nombre": "LG 55-inch 4K TV",
+                    "cantidad": 10,
+                    "precio_unitario": 799.2,
+                    "valor_total_producto": 7992
+                },
+                {
+                    "nombre": "LG 65-inch OLED TV",
+                    "cantidad": 5,
+                    "precio_unitario": 1999.2,
+                    "valor_total_producto": 9996
+                }
+            ],
+            "valor_total_pedido": 17988
+        },
+        {
+            "proveedor": "Canon",
+            "fecha_pedido": "2024-01-18",
+            "productos": [
+                {
+                    "nombre": "Canon EOS Rebel T6",
+                    "cantidad": 15,
+                    "precio_unitario": 399.2,
+                    "valor_total_producto": 5988
+                },
+                {
+                    "nombre": "Canon EOS 5D Mark IV",
+                    "cantidad": 5,
+                    "precio_unitario": 2639.2,
+                    "valor_total_producto": 13196
+                }
+            ],
+            "valor_total_pedido": 19184
+        },
+        {
+            "proveedor": "Fitbit",
+            "fecha_pedido": "2024-02-28",
+            "productos": [
+                {
+                    "nombre": "Fitbit Versa",
+                    "cantidad": 30,
+                    "precio_unitario": 159.2,
+                    "valor_total_producto": 4776
+                },
+                {
+                    "nombre": "Fitbit Charge 3",
+                    "cantidad": 35,
+                    "precio_unitario": 119.2,
+                    "valor_total_producto": 4172
+                }
+            ],
+            "valor_total_pedido": 8948
+        },
+        {
+            "proveedor": "Bose",
+            "fecha_pedido": "2024-03-14",
+            "productos": [
+                {
+                    "nombre": "Bose QuietComfort 35 II",
+                    "cantidad": 20,
+                    "precio_unitario": 279.2,
+                    "valor_total_producto": 5584
+                },
+                {
+                    "nombre": "Bose SoundLink Revolve+",
+                    "cantidad": 15,
+                    "precio_unitario": 239.2,
+                    "valor_total_producto": 3588
+                }
+            ],
+            "valor_total_pedido": 9172
+        },
+        {
+            "proveedor": "Amazon",
+            "fecha_pedido": "2024-04-05",
+            "productos": [
+                {
+                    "nombre": "Amazon Echo Dot",
+                    "cantidad": 50,
+                    "precio_unitario": 39.2,
+                    "valor_total_producto": 1960
+                },
+                {
+                    "nombre": "Amazon Fire TV Stick",
+                    "cantidad": 30,
+                    "precio_unitario": 31.2,
+                    "valor_total_producto": 936
+                }
+            ],
+            "valor_total_pedido": 2896
+        },
+        {
+            "proveedor": "Microsoft",
+            "fecha_pedido": "2024-01-11",
+            "productos": [
+                {
+                    "nombre": "Microsoft Surface Pro 6",
+                    "cantidad": 30,
+                    "precio_unitario": 719.2,
+                    "valor_total_producto": 21576
+                },
+                {
+                    "nombre": "Xbox One X",
+                    "cantidad": 20,
+                    "precio_unitario": 399.2,
+                    "valor_total_producto": 7984
+                }
+            ],
+            "valor_total_pedido": 29560
+        },
+        {
+            "proveedor": "Nikon",
+            "fecha_pedido": "2024-02-14",
+            "productos": [
+                {
+                    "nombre": "Nikon D750",
+                    "cantidad": 10,
+                    "precio_unitario": 1199.2,
+                    "valor_total_producto": 11992
+                }
+            ],
+            "valor_total_pedido": 11992
+        },
+        {
+            "proveedor": "HP",
+            "fecha_pedido": "2024-03-25",
+            "productos": [
+                {
+                    "nombre": "HP OfficeJet Pro 6968",
+                    "cantidad": 5,
+                    "precio_unitario": 119.2,
+                    "valor_total_producto": 596
+                },
+                {
+                    "nombre": "HP Spectre x360",
+                    "cantidad": 15,
+                    "precio_unitario": 1039.2,
+                    "valor_total_producto": 15588
+                }
+            ],
+            "valor_total_pedido": 16184
+        }
+    ]
+}

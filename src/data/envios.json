@@ -1,0 +1,265 @@
+{
+    "compras": [
+        {
+            "nombre": "Juan Pérez",
+            "fecha_compra": "2024-01-15",
+            "productos": [
+                {
+                    "nombre": "Sony PlayStation 4",
+                    "cantidad": 1,
+                    "total": 299
+                },
+                {
+                    "nombre": "Bose QuietComfort 35 II",
+                    "cantidad": 1,
+                    "total": 349
+                }
+            ],
+            "valor_total": 648
+        },
+        {
+            "nombre": "María González",
+            "fecha_compra": "2024-02-05",
+            "productos": [
+                {
+                    "nombre": "Canon EOS Rebel T6",
+                    "cantidad": 2,
+                    "total": 998
+                },
+                {
+                    "nombre": "Amazon Echo Dot",
+                    "cantidad": 1,
+                    "total": 49
+                }
+            ],
+            "valor_total": 1047
+        },
+        {
+            "nombre": "Luis Rodríguez",
+            "fecha_compra": "2024-03-10",
+            "productos": [
+                {
+                    "nombre": "Samsung Galaxy S9",
+                    "cantidad": 1,
+                    "total": 899
+                }
+            ],
+            "valor_total": 899
+        },
+        {
+            "nombre": "Ana Martínez",
+            "fecha_compra": "2024-04-22",
+            "productos": [
+                {
+                    "nombre": "Fitbit Versa",
+                    "cantidad": 2,
+                    "total": 398
+                }
+            ],
+            "valor_total": 398
+        },
+        {
+            "nombre": "Carlos López",
+            "fecha_compra": "2024-05-03",
+            "productos": [
+                {
+                    "nombre": "Microsoft Surface Pro 6",
+                    "cantidad": 1,
+                    "total": 899
+                },
+                {
+                    "nombre": "LG 65-inch OLED TV",
+                    "cantidad": 1,
+                    "total": 2499
+                }
+            ],
+            "valor_total": 3398
+        },
+        {
+            "nombre": "Laura García",
+            "fecha_compra": "2024-01-18",
+            "productos": [
+                {
+                    "nombre": "Canon EOS 5D Mark IV",
+                    "cantidad": 1,
+                    "total": 3299
+                }
+            ],
+            "valor_total": 3299
+        },
+        {
+            "nombre": "Javier Sánchez",
+            "fecha_compra": "2024-02-28",
+            "productos": [
+                {
+                    "nombre": "Samsung 55-inch QLED TV",
+                    "cantidad": 1,
+                    "total": 1499
+                }
+            ],
+            "valor_total": 1499
+        },
+        {
+            "nombre": "Carmen Fernández",
+            "fecha_compra": "2024-03-14",
+            "productos": [
+                {
+                    "nombre": "Google Home",
+                    "cantidad": 1,
+                    "total": 99
+                },
+                {
+                    "nombre": "Amazon Fire TV Stick",
+                    "cantidad": 1,
+                    "total": 39
+                }
+            ],
+            "valor_total": 138
+        },
+        {
+            "nombre": "Roberto Díaz",
+            "fecha_compra": "2024-04-05",
+            "productos": [
+                {
+                    "nombre": "Xbox One X",
+                    "cantidad": 1,
+                    "total": 499
+                },
+                {
+                    "nombre": "HP Spectre x360",
+                    "cantidad": 1,
+                    "total": 1299
+                }
+            ],
+            "valor_total": 1798
+        },
+        {
+            "nombre": "Isabel Jiménez",
+            "fecha_compra": "2024-05-20",
+            "productos": [
+                {
+                    "nombre": "Nikon D750",
+                    "cantidad": 1,
+                    "total": 1499
+                }
+            ],
+            "valor_total": 1499
+        },
+        {
+            "nombre": "Pablo Moreno",
+            "fecha_compra": "2024-01-11",
+            "productos": [
+                {
+                    "nombre": "Dell XPS 13",
+                    "cantidad": 1,
+                    "total": 1299
+                }
+            ],
+            "valor_total": 1299
+        },
+        {
+            "nombre": "Sara Ruiz",
+            "fecha_compra": "2024-02-08",
+            "productos": [
+                {
+                    "nombre": "Sony WH-1000XM3",
+                    "cantidad": 1,
+                    "total": 349
+                },
+                {
+                    "nombre": "Beats Studio3 Wireless",
+                    "cantidad": 1,
+                    "total": 349
+                }
+            ],
+            "valor_total": 698
+        },
+        {
+            "nombre": "Jorge Herrera",
+            "fecha_compra": "2024-03-17",
+            "productos": [
+                {
+                    "nombre": "Fitbit Charge 3",
+                    "cantidad": 3,
+                    "total": 447
+                }
+            ],
+            "valor_total": 447
+        },
+        {
+            "nombre": "Elena Medina",
+            "fecha_compra": "2024-04-30",
+            "productos": [
+                {
+                    "nombre": "Bose SoundLink Revolve+",
+                    "cantidad": 2,
+                    "total": 598
+                }
+            ],
+            "valor_total": 598
+        },
+        {
+            "nombre": "Daniel Torres",
+            "fecha_compra": "2024-01-02",
+            "productos": [
+                {
+                    "nombre": "LG 55-inch 4K TV",
+                    "cantidad": 1,
+                    "total": 999
+                },
+                {
+                    "nombre": "HP OfficeJet Pro 6968",
+                    "cantidad": 1,
+                    "total": 149
+                }
+            ],
+            "valor_total": 1148
+        },
+        {
+            "nombre": "Marta López",
+            "fecha_compra": "2024-02-14",
+            "productos": [
+                {
+                    "nombre": "Apple Watch Series 4",
+                    "cantidad": 2,
+                    "total": 798
+                }
+            ],
+            "valor_total": 798
+        },
+        {
+            "nombre": "Alberto Ramírez",
+            "fecha_compra": "2024-03-25",
+            "productos": [
+                {
+                    "nombre": "Amazon Echo Dot",
+                    "cantidad": 1,
+                    "total": 49
+                },
+                {
+                    "nombre": "Amazon Fire TV Stick",
+                    "cantidad": 1,
+                    "total": 39
+                },
+                {
+                    "nombre": "Google Home",
+                    "cantidad": 1,
+                    "total": 99
+                }
+            ],
+            "valor_total": 187
+        },
+        {
+            "nombre": "Cristina García",
+            "fecha_compra": "2024-05-07",
+            "productos": [
+                {
+                    "nombre": "Nintendo Switch",
+                    "cantidad": 1,
+                    "total": 299
+                }
+            ],
+            "valor_total": 299
+        }
+    ]
+}

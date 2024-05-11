@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    flex-direction: row;
+}
+
+.home__menu {
+    width: 16%;
+    padding-left: 8px;
+}
+
+.home__viewContent {
+    width: 84%;
+    padding: 16px;
+}
