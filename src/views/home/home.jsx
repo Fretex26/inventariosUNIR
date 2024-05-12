@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link, Outlet } from 'react-router-dom'
-import { useToView } from '../../hooks/useToView'
+import { Outlet } from 'react-router-dom'
 import './home.css'
 import CompanyLogo from '../../components/companyLogo/companyLogo'
 import MainMenu from '../../components/mainMenu/mainMenu'
