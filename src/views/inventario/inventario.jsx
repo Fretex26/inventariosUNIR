@@ -2,15 +2,16 @@ import { useState } from "react";
 import BarraDeBusqueda from "../../components/barraDeBusqueda/barraDeBusqueda";
 import ItemCardsContainer from "../../components/itemCardsContainer/itemCardsContainer";
 import SectionTitle from "../../components/sectionTitle/sectionTitle";
-import items from "../../data/items.json"
+import productos from "../../data/productos.json"
 
 export default function Inventario() {
-    const [itemSelected, setItemSelected] = useState('')
+    const [busqueda, setBusqueda] = useState('')
     return (
         <>
             <SectionTitle title='Inventario'/>
-            <BarraDeBusqueda/>
-            <ItemCardsContainer itemsData={items} setItemSelected={setItemSelected}/>
+            <BarraDeBusqueda setBusqueda={setBusqueda}/>
+            <p>Escribe el nombre, categoría, fabricante, stock, garantía o precio, para buscar tus productos.</p>
+            <ItemCardsContainer itemsData={productos} filtroDeBusqueda={busqueda}/>
         </>
     )
 }

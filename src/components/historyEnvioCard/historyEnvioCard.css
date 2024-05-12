@@ -1,0 +1,21 @@
+.historyEnvioCard {
+    background-color: #97a7b4;
+    border-radius: 16px;
+    padding: 16px;
+    margin-top: 16px;
+}
+.columna1__products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 180px);
+    gap: 16px;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.cardProduct {
+    background-color: #F28F6B;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

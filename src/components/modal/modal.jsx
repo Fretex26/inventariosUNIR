@@ -1,13 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import "./modal.css"
 
-export default function Modal({show, children}) {
+export default function Modal({show, setShow,children}) {
     const [isVisible, setIsVisible] = useState(show)
-    const [visibility, setVisibility] = useState('visible')
-    console.log('isVisible: ',isVisible);
-    console.log('show: ',show);
+    const [visibility, setVisibility] = useState('invisible')
+
     useEffect(()=>{
-        console.log('Entroooooooooo');
         if (show){
             setVisibility('visible')
         } else {
@@ -18,7 +16,12 @@ export default function Modal({show, children}) {
     <div className={`modal ${visibility}`}>
         <div className='modal__content'>
             {children}
-            <button className='content__button' onClick={()=>setIsVisible(!isVisible)}>Ocultar</button>
+            <button className='content__button' 
+                    onClick={()=>{
+                        setIsVisible(!isVisible)
+                        setShow(false)
+                    }}
+            >Ocultar</button>
         </div>
     </div>
   )

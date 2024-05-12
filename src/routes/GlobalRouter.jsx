@@ -1,11 +1,11 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "../views/home/home";
-import RealizarPedido from "../views/pedidos/realizarPedido";
-import HistorialPedidos from "../views/pedidos/historialPedidos";
+import RealizarPedido from "../views/pedidos/realizarPedido/realizarPedido";
+import HistorialPedidos from "../views/pedidos/historialPedidos/historialPedidos";
 import Inventario from "../views/inventario/inventario";
 import Envios from "../views/envios/envios/envios";
-import RealizarEnvio from "../views/envios/realizarEnvio";
-import HistorialEnvios from "../views/envios/historialEnvios";
+import RealizarEnvio from "../views/envios/realizarEnvio/realizarEnvio";
+import HistorialEnvios from "../views/envios/historialEnvios/historialEnvios";
 import Pedidos from "../views/pedidos/pedidos/pedidos";
 
 export function GlobalRouter() {

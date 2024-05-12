@@ -1,0 +1,29 @@
+.envios__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputCantidad {
+    height: 40px;
+    border-radius: 16px;
+    padding: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.inputButton {
+    background-color: #30618C;
+    color: white !important;
+    display: -webkit-flex;
+    min-width: 100%;
+    padding: 8px;
+    height: 40px;
+    border-radius: 16px;
+    justify-content: center;
+}
+
+.textAreaMessage {
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

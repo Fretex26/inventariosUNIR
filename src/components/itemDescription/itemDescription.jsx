@@ -10,7 +10,7 @@ export default function ItemDescription({item}) {
         Fabricante: {item.maker} <br />
         Stock: {item.stock} <br />
         Garantía: {item.warranty} <br />
-        Precio: {item.price}
+        Precio: ${item.price} USD
     </div>
   )
 }
